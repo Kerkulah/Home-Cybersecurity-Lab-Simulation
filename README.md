@@ -4,18 +4,58 @@
 
 
 <h2>Description</h2>
-This homelab focuses on setting up and configuring Kali and Windows virtual machine as part of the lab infrastructure. Configured Elastic Agents to enable log collection and data forwarding for comprehensive security monitoring failed logon attempts, successful RDP logon related to service accounts, and users add or removed from a local group within a specific timeframe. 
+
 <br />
-<h2> Utilities Used</h2>
-Oracle VirtualBox      Link https://www.virtualbox.org/wiki/Downloads
-Kali Linux             Link https://www.kali.org/get-kali/#kali-installer-images
-Windows                Link https://www.microsoft.com/en-ca/software-download/windows10iso
-<h2> Quick walk-through:</h2>
+<h2> Tech Stack</h2>
+
+Proxmox VE : https://www.virtualbox.org/wiki/Downloads](https://www.proxmox.com/en/downloads
+<br />
+Kali Linux :                             https://www.kali.org/get-kali/#kali-installer-images
+<br />
+Windows 10 :                             https://www.microsoft.com/en-ca/software-download/windows10iso
+<br />
+Windows 11 :                            https://www.microsoft.com/en-us/software-download/windows11
+<br />
+Window Server 22 :                       https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022
+<br />
+Ubuntu :                                https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview
+<br />
+Ubuntu Server :     https://ubuntu.com/download/server
+<br />
+Docker(install on Kali) :                 https://www.kali.org/docs/containers/installing-docker-on-kali/
+<br />
+Portainer.io (install on Docker) :       https://docs.portainer.io/start/install-ce/server/docker/linux
+<br />
+Wazuh :                                https://documentation.wazuh.com/current/deployment-options/virtual-machine/virtual-machine.html
+<br />
+Metasploitable :         https://koromatech.com/how-to-install-metasploitable-2-on-a-proxmox-vm-step-by-step-walkthrough/
+<br />
+pfSense :          https://www.pfsense.org/download/
+
+<h2></h2>
+<br />
+<img src="https://imgur.com/L7acb1x.jpg"  height="80%" width="80%">
+<br />
+<br />
+<img src="https://imgur.com/ajc26sg.jpg"  height="80%" width="80%">
+<br />
+<br />
+<img src="https://imgur.com/BHhJuDb.jpg"  height="80%" width="80%">
+<br /><br />
+<img src="https://imgur.com/LFo3M6t.jpg"  height="80%" width="80%">
+<br /><br />
+<img src="https://imgur.com/NC5uCfL.jpg"  height="80%" width="80%">
+<br />
+<br />
+<img src="https://imgur.com/1AANkAr.jpg"  height="80%" width="80%">
+<br />
+
+<h2>  Walk-through:</h2>
 
 <p align="center">
 VM SetUP <br/>
 
-Open VirtualBox and click New  → || Name the VM  and choose Type and ISO file → After VM Setup
+Open VirtualBox and click New   || Name the VM  and choose Type and ISO file → After VM Setup
 Start the VM
 <br />
 <br />
