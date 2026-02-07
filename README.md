@@ -50,25 +50,24 @@ pfSense :          https://www.pfsense.org/download/
 <img src="https://imgur.com/1AANkAr.jpg"  height="80%" width="80%">
 <br />
 
-<h2>  Walk-through:</h2>
-
 <p align="center">
 <br/>
-
-pfSense firewall installed and configured with VLANs, DHCP, rules, and Kali Linux installed and connected
+<h1> pfSense firewall installed and configured with VLANs, DHCP, rules, and Kali Linux installed and connected.
+</h1>
 <br />
 <br />
 <img src="https://imgur.com/MCJudkD.jpg"  height="80%" width="80%">
 <br />
 <br />
-Ubuntu Server, Docker, Portainer installed, verified, and accessible
+ <h1>Ubuntu Server, Docker, Portainer installed, verified, and accessible
+ </h1>
 <br />
  <br/>
 <img src="https://imgur.com/sVUYYP0.jpg"  height="80%" width="80%">
 <br />
 <br />
-
-Metasploitable2 VM created, and MACVLAN networking configured bWAPP, DVWA, and WebGoat deployed. All vulnerable machines are reachable for future security tool integration
+<h1> Metasploitable2 VM created, and MACVLAN networking configured bWAPP, DVWA, and WebGoat deployed. All vulnerable machines are reachable for future security tool integration.
+</h1>
 <br/>
 <br />
 <br />
@@ -81,7 +80,7 @@ Metasploitable2 VM created, and MACVLAN networking configured bWAPP, DVWA, and W
 <br />
 <br />
 <br />
- Wazuh server, Nessus Essential Integration of both tools into VLAN 10 (security tools segment). Firewall rule adjustments for scanning and agent communication. Initial vulnerability scans against Metasploitable2, DVWA, bWAPP, and WebGoat
+<h1> Wazuh server, Nessus Essential Integration of both tools into VLAN 10 (security tools segment). Firewall rule adjustments for scanning and agent communication. Initial vulnerability scans against Metasploitable2, DVWA, bWAPP, and WebGoat. </h1>
 <br />
 <br />
 <img src="https://imgur.com/Prw149V.jpg"  height="80%" width="80%">
@@ -95,5 +94,29 @@ Metasploitable2 VM created, and MACVLAN networking configured bWAPP, DVWA, and W
 <br />
 <br />
 <br />
+
+<h1> Adding Windows enterprise environment to the lab. Build a Windows Server 2022 Domain Controller and a Windows 10 workstation, then configure Active Directory, DNS, DHCP, and Group Policy.  </h1>
 <br />
 <br />
+<img src="https://imgur.com/OVDGZbC.jpg"  height="80%" width="80%">
+<br />
+<br />
+<img src="https://imgur.com/XW2c2Cb.jpg"  height="80%" width="80%">
+<br />
+<br />
+<img src="https://imgur.com/ODmGUuu.jpg"  height="80%" width="80%">
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
