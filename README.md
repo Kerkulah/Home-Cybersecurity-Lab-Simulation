@@ -109,10 +109,15 @@ pfSense :          https://www.pfsense.org/download/
 <img src="https://imgur.com/ODmGUuu.jpg"  height="80%" width="80%">
 <br />
 <br />
+<h1>Build a site‑to‑site VPN between pfSense and an Azure VNet. This unlocks the ability to run cloud resources. Creating Azure resources (Resource Group, VNet, subnets, VPN Gateway, Local Network Gateway)
+ Handling home‑network constraints (dynamic public IP, port forwarding, static WAN assignment)
+ </h1>
 <br />
 <br />
+<img src="https://imgur.com/f16GqHb.jpg"  height="80%" width="80%">
 <br />
 <br />
+<img src="https://imgur.com/f16GqHb.jpg"  height="80%" width="80%">
 <br />
 <br />
 <br />
